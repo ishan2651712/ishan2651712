@@ -40,8 +40,12 @@
 
 Here are a few of my personal and academic projects:
 
+### 📌 My Projects
+
 - 🔹 [Currency Converter](https://github.com/ishan2651712/currency-converter) — A JavaScript-based web app for real-time currency conversion  
 - 🔹 [Stone Paper Scissors](https://github.com/ishan2651712/StonePaperScissors) — Classic game built with HTML, CSS, and JavaScript  
+- 🔹 [Amazon UI Clone](https://github.com/ishan2651712/amazon-ui-clone) — Front-end clone of Amazon’s homepage using HTML, CSS, Flexbox, and Grid  
+- 🔹 [Diabetes Prediction using Machine Learning](https://github.com/ishan2651712/ishan2651712-Diabetes-Prediction-using-Machine-Learning) — ML project using Pima India dataset, includes model training and prediction interface  
 - 🔹 *More coming soon...*
 
 ---
@@ -49,7 +53,7 @@ Here are a few of my personal and academic projects:
 ### 📫 Contact Me
 
 - 📧 Email: [ishan.mahajan2002@gmail.com](mailto:ishan.mahajan2002@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 💼 LinkedIn: Ishan-LinkedIn(https://www.linkedin.com/in/ishan-mahajan1712)
 
 ---
 
