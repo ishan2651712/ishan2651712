@@ -1,17 +1,28 @@
 <h1 align="center">Hi there, I'm Ishan 👋</h1>
 
 <p align="center">
-🎓 Final Year CS Student | 💻 Aspiring Web Developer | 📍 India  
+🎓 Final Year CS Student | 💻 Aspiring Software Developer | 📍 Chandigarh, India  
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm currently pursuing a degree in Computer Science
-- 🧠 I enjoy building full-stack projects and solving algorithmic problems
-- 🚀 I’m currently learning **Express.js**, **APIs**, and **MongoDB**
-- 📬 Reach me: [LinkedIn](https://linkedin.com/in/your-link) | [Email](mailto:your@email.com)
+- 🎓 I'm currently pursuing B.E. in Computer Science at **CCET, Sector-26, Chandigarh**
+- 💡 I aspire to become a **Software Developer** and contribute to impactful projects
+- 📘 Currently learning **Data Structures & Algorithms** and improving problem-solving skills
+- 🔁 Exploring **Node.js** and **Express.js** for backend development
+- 🔍 Keen learner with strong interest in full-stack web development
+- 🧠 Actively building projects to apply my skills and gain hands-on experience
+
+---
+
+### 💼 Soft Skills
+
+- ✅ Strong communication & teamwork  
+- ✅ Quick adaptability to new technologies  
+- ✅ Self-motivated and growth-oriented mindset  
+- ✅ Analytical thinking and problem-solving  
 
 ---
 
@@ -21,7 +32,7 @@
 `C` `C++` `JavaScript` `HTML` `CSS`
 
 **Tools & Frameworks**  
-`Node.js` `Express.js` `Git` `VS Code`  
+`Node.js` `Express.js` `Git` `VS Code`
 
 ---
 
@@ -29,9 +40,16 @@
 
 Here are a few of my personal and academic projects:
 
-- 🔹 [Currency Converter](https://github.com/ishan2651712/currency-converter) — A JS-based web app for real-time currency conversion  
+- 🔹 [Currency Converter](https://github.com/ishan2651712/currency-converter) — A JavaScript-based web app for real-time currency conversion  
 - 🔹 [Stone Paper Scissors](https://github.com/ishan2651712/StonePaperScissors) — Classic game built with HTML, CSS, and JavaScript  
-- 🔹 *More projects coming soon...*
+- 🔹 *More coming soon...*
+
+---
+
+### 📫 Contact Me
+
+- 📧 Email: [ishan.mahajan2002@gmail.com](mailto:ishan.mahajan2002@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 
 ---
 
@@ -49,3 +67,13 @@ Here are a few of my personal and academic projects:
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishan2651712&theme=github-dark" />
+</p>
+
+---
+
+### 🎯 Goals for 2025
+
+- ✅ Build and deploy a full-stack project
+- ✅ Improve DSA skills through regular practice
+- ✅ Contribute to open source
+- ✅ Land a software
