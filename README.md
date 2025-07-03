@@ -76,4 +76,11 @@ Here are a few of my personal and academic projects:
 - ✅ Build and deploy a full-stack project
 - ✅ Improve DSA skills through regular practice
 - ✅ Contribute to open source
-- ✅ Land a software
+- ✅ Land a software development role after graduation!
+
+---
+
+<p align="center">
+Thanks for visiting my profile! 🙌  
+Let's connect and build something amazing.
+</p>
