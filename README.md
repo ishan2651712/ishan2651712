@@ -53,7 +53,7 @@ Here are a few of my personal and academic projects:
 ### 📫 Contact Me
 
 - 📧 Email: [ishan.mahajan2002@gmail.com](mailto:ishan.mahajan2002@gmail.com)  
-- 💼 LinkedIn: Ishan-LinkedIn(https://www.linkedin.com/in/ishan-mahajan1712)
+- 💼 LinkedIn: [Profile](https://www.linkedin.com/in/ishan-mahajan1712)
 
 ---
 
