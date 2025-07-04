@@ -47,7 +47,7 @@ Here are a few of my personal and academic projects:
 - 🔹 [Amazon UI Clone](https://github.com/ishan2651712/amazon-ui-clone) — Front-end clone of Amazon’s homepage using HTML, CSS, Flexbox, and Grid  
 - 🔹 [Diabetes Prediction using Machine Learning](https://github.com/ishan2651712/ishan2651712-Diabetes-Prediction-using-Machine-Learning) — ML project using Pima India dataset, includes model training and prediction interface
 - 🔹 [Suggestion box](https://github.com/ishan2651712/suggestion-box) - A full-stack feedback system with email alerts to users, JWT-secured admin panel, chart-based data visualization, search/filter options, and CSV export functionality
-- 🔹 Emergency Dispatch System — A C++ OOPS project simulating real-time emergency response using priority queues, logs, analytics dashboard, and file-based persistence
+- 🔹 [Emergency Dispatch System](https://github.com/ishan2651712/EmergencyDispatchSystem) — A C++ OOPS project simulating real-time emergency response using priority queues, logs, analytics dashboard, and file-based persistence
 - 🔹 *More coming soon...*
 
 ---
